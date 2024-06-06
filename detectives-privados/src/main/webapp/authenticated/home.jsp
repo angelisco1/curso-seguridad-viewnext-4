@@ -14,7 +14,7 @@
       <h1>Bienvenido ${usuario.nombre}!</h1>
       <ul>
         <li>
-          <a href="nuevo-informe.html">Crea un informe</a>
+          <a href="nuevo-informe">Crea un informe</a>
           <a href="informes">Informes</a>
           <a href="logout">Logout</a>
         </li>
